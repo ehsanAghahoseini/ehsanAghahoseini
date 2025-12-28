@@ -1,5 +1,5 @@
 # 💫 About Me:
-Exploring the front-end in order to see sunrise in the backend <3
+Indie frontend developer | Building premium Next.js + Tailwind dashboard templates & free UI snippets ❤️
 
 
 ## 🌐 Socials:
@@ -21,8 +21,7 @@ Exploring the front-end in order to see sunrise in the backend <3
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ehsanAghahoseini&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ehsanAghahoseini&icon=6&color=12)](https://visitcount.itsvg.in)
